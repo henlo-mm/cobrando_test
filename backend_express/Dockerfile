@@ -1,7 +1,7 @@
-FROM node:17
+FROM node:latest
 
 # Create app directory
-WORKDIR /usr/src/app
+WORKDIR /app
 
 EXPOSE 1234
 CMD [ "npm", "start" ]

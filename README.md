@@ -37,7 +37,7 @@ cd backend_express
 
 # Probar la aplicación (POSTMAN)
 
-#Departamento
+# Departamento
 
 Obtiene todos los departamentos
 
@@ -58,7 +58,7 @@ Eliminar un departamento
 
 ![image](https://user-images.githubusercontent.com/95490448/187088342-3bcb4b68-93d0-44ce-8553-d82041a76aa2.png)
 
-#Empleado 
+# Empleado 
 
 Listar todos los empleados
 
